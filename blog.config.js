@@ -1,8 +1,8 @@
 const BLOG = {
   title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
+  author: 'Echo',
+  email: 'qin233@qq.com',
+  link: 'https://nobelium.echo.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
